@@ -25,17 +25,6 @@ This project is a cloud-based file storage system developed using AWS services. 
 User → Web Interface → Backend Server → AWS S3 Bucket
 
 
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-   git clone https://github.com/your-username/cloud-file-storage-system
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Run the application:
-   python app.py
-
 ## 📂 Project Structure
 - src/: Backend code
 - templates/: HTML files
