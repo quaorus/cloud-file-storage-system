@@ -1,0 +1,20 @@
+cloud-file-storage-system/
+│── src/
+│   ├── app.py
+│   ├── config.py
+│
+│── templates/
+│   ├── index.html
+│
+│── static/
+│   ├── style.css
+│
+│── screenshots/
+│   ├── s3-bucket.png
+│   ├── upload.png
+│
+│── report/
+│   ├── final-report.pdf
+│
+│── README.md
+│── requirements.txt
